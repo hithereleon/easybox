@@ -20,7 +20,7 @@ def menu():
 	os.system("cls")
 	print("你好，欢迎使用eb工具箱")
 	time.sleep(1)
-	gongneng = input("请选择你要使用的功能\n1.工具箱 2.题库训练 3.退出\n")
+	gongneng = input("你好，欢迎使用eb工具箱,项目地址：https://github.com/hithereleon/easybox，好用的话点个star哦~")
 	time.sleep(1)
 	if gongneng == '1':
 		eb()
